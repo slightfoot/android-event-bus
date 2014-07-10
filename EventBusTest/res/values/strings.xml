@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-	<string name="app_name">Event Bus Test</string>
-
+	
+	<string name="app_name">Event Bus</string>
+	
+	<string name="activity_main" >EventBus Main</string>
+	<string name="activity_other">EventBus Other</string>
+	
 </resources>
